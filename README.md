@@ -1,2 +1,2 @@
-# AIKU-DL-Paper-Review
+# 기초 논문 스터디
 아이쿠 기논스
