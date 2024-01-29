@@ -6,6 +6,6 @@
 
 ### 1주차
 + **Deep Residual Learning for Image Recognition** (CVPR 2016)
-  + [Original Paper](https://arxiv.org/abs/1512.03385)/[Review](https://scrawny-walker-550.notion.site/Deep-Residual-Learning-for-Image-Recognition-0efe0bb6d73644fca43bf79b5d221f48)
+  + [Original Paper](https://arxiv.org/abs/1512.03385)/[Review](https://scrawny-walker-550.notion.site/Deep-Residual-Learning-for-Image-Recognition-0efe0bb6d73644fca43bf79b5d221f48)/[Codes](https://github.com/kkumtori/AIKU-DL-Paper-Review/tree/main/code_practices/ResNet)
 + **Sequence to Sequence Learning with Neural Networks**
   + [Original Paper](https://arxiv.org/abs/1409.3215)/[Review](https://scrawny-walker-550.notion.site/Sequence-to-Sequence-Learning-with-Neural-Networks-67856c9e4b374b06811de0c82b91fbfa)
